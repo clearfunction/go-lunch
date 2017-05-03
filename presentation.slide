@@ -6,7 +6,7 @@ Tags: go, lunch, programming
 Daniel Pritchett
 Clear Function
 daniel@clearfunction.com
-http://clearfunction.com
+http://www.clearfunction.com
 @dpritchett
 
 * Hello, World
@@ -19,3 +19,7 @@ http://clearfunction.com
 * JSON in action
 
 .play json_example.go
+
+* Cross-platform building!
+
+.code Makefile    

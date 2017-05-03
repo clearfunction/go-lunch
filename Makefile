@@ -1,8 +1,8 @@
+all: osx windows linux
+
 osx: hello_osx
 windows: hello_windows.exe
 linux: hello_linux
-
-all: osx windows linux
 
 clean:
 	rm ./*.exe hello_linux hello_osx
