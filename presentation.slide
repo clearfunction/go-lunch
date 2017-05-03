@@ -13,6 +13,17 @@ http://www.clearfunction.com
 
 .play hello.go
 
+* What's different about Go?
+
+- Single-binary compiles
+- Small language (few keywords and rules)
+- Fast compiles are a core value
+- Implicit interfaces (duck typing?)
+
+* Interfaces
+
+.play interfaces.go /START OMIT/,/END OMIT/
+
 * Types, JSON, and stuff
 .code human/human.go
 
@@ -23,3 +34,7 @@ http://www.clearfunction.com
 * Cross-platform building!
 
 .code Makefile    
+
+* A simple time printer for you to run
+
+.play xplat_demo.go
