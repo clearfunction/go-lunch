@@ -19,10 +19,15 @@ http://www.clearfunction.com
 - Small language (few keywords and rules)
 - Fast compiles are a core value
 - Implicit interfaces (duck typing?)
+- Built-in concurrency primitives
 
 * Interfaces
 
 .play interfaces.go /START OMIT/,/END OMIT/
+
+* Goroutines
+
+.play goroutines.go
 
 * Types, JSON, and stuff
 .code human/human.go
