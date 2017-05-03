@@ -1,0 +1,21 @@
+Golang Lunch and Learn
+Clear Function
+12:30 2 May 2017
+Tags: go, lunch, programming
+
+Daniel Pritchett
+Clear Function
+daniel@clearfunction.com
+http://clearfunction.com
+@dpritchett
+
+* Hello, World
+
+.play hello.go
+
+* Types, JSON, and stuff
+.code human/human.go
+
+* JSON in action
+
+.play json_example.go
